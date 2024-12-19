@@ -148,8 +148,8 @@
         }
       },
       "endpoints": {
-        "graphql": "http://localhost:8080/v1/graphql",
-        "graphqlWebsocket": "ws://localhost:8080/v1/graphql",
+        "graphql": "http://195.179.227.102:8080/v1/graphql",
+        "graphqlWebsocket": "ws://195.179.227.102:8080/v1/graphql",
         "publicRpcWebsocket": "ws://62.164.223.71:26657/websocket"
       },
       "marketing": {
